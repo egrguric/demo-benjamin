@@ -1,5 +1,5 @@
 field,display_name
-title,Title
-date,Date
-description,Description
-subject,Subjects
+transiting-year,Transiting Year
+departure-port,Departure Port
+destination-port,Destination Port
+ship-name,Ship Name
